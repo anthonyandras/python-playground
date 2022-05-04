@@ -1,0 +1,9 @@
+05-03-2022 01:35:20 PM - DEBUG - Start of program
+05-03-2022 01:35:20 PM - DEBUG - Start of factorial(5)
+05-03-2022 01:35:20 PM - DEBUG - i is 1, total is 1
+05-03-2022 01:35:20 PM - DEBUG - i is 2, total is 2
+05-03-2022 01:35:20 PM - DEBUG - i is 3, total is 6
+05-03-2022 01:35:20 PM - DEBUG - i is 4, total is 24
+05-03-2022 01:35:20 PM - DEBUG - i is 5, total is 120
+05-03-2022 01:35:20 PM - DEBUG - End of factorial(5)
+05-03-2022 01:35:20 PM - DEBUG - End of program
